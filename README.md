@@ -1,4 +1,5 @@
-📁 Cpp-projecUseddhnologiesuctureucture
+📁 Cpp-projects
+
 A collection of small C++ projects, algorithms, and console applications built for learning, practice, and improving problem-solving skills.
 
 🚀 What's Inside
